@@ -1,2 +1,2 @@
-# Loan-Default-Risk-Prediction-
+# Loan Default Risk Prediction
 This is a class project about generalized linear model.
